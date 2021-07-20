@@ -9,7 +9,7 @@
   "dependencies": {
     "apisauce": "^1.0.2",
     "react": "16.8.3",
-    "react-native": "0.59.9",
+    "react-native": "0.62.3",
     "react-redux": "^7.1.0",
     "redux": "^4.0.1",
     "redux-mock-store": "^1.5.3",
